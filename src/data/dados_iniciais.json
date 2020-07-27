@@ -1,183 +1,171 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Metal",
+      "link": "https://www.youtube.com/watch?v=8NAO6C6qrBA",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Heavy music for heavy ears",
+        "url": "https://www.youtube.com/watch?v=Ka7jw1UBZmc&list=PLjKM2dWFYnoGjTqLOwK6ETvsI2TcaMFRi"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Iron Maiden - Rock In Rio 2013",
+          "url": "https://www.youtube.com/watch?v=Z3SvkefKslg"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Black Sabbath - Live At Ozzfest 2005",
+          "url": "https://www.youtube.com/watch?v=D9yawWUIit0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Metallica: Live in Irvine, California - September 23, 1989",
+          "url": "https://www.youtube.com/watch?v=8NAO6C6qrBA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Motorhead - Live At Wacken Open Air 2006",
+          "url": "https://www.youtube.com/watch?v=jk886pOS4Mo"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "SEPULTURA - live Roots 1996",
+          "url": "https://www.youtube.com/watch?v=CBwgf8NRFhI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Slayer - Live at Wacken 2014",
+          "url": "https://www.youtube.com/watch?v=rzcYrPAsJvA"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Pantera - Full Concert (Killing In Korea)",
+          "url": "https://www.youtube.com/watch?v=6-Jvkf9jlNw"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Anthrax Live on Chile",
+          "url": "https://www.youtube.com/watch?v=eGGc512cees"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Rock'n'Roll",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "I know, it's only rock and roll",
+        "url": "https://www.youtube.com/watch?v=x9MOr6ws0YQ&list=PLjKM2dWFYnoH50epfU0HihrLVcVFh7WAo"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Oasis - Live at Maine Road 1996",
+          "url": "https://www.youtube.com/watch?v=-RE0ugUrKUs"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Nirvana - Live at the Paramount 1991",
+          "url": "https://www.youtube.com/watch?v=-tyrI-lfiuA"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Foo Fighters - Live in Hyde Park (2006)",
+          "url": "https://www.youtube.com/watch?v=A8z6rbmx7Mg"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Pearl Jam - Live at The Madison Square Garden",
+          "url": "https://www.youtube.com/watch?v=9rOBo4iEiG8&t=5119s"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "The White Stripes Live - Under Nova Scotian Lights",
+          "url": "https://www.youtube.com/watch?v=fpG8-P_BpcQ"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Classic Rock",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "All the best classic songs",
+        "url": "https://www.youtube.com/watch?v=k-WSbMW7BPc&list=PLKnoifHxcT0b16B_2eR0l61igOsZHR7rp"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Led Zeppelin - Live at Madison Square Garden 1971",
+          "url": "https://www.youtube.com/watch?v=9BlGnzGICNQ"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "The Beatles Blackpool Night Out, ABC Theatre, Blackpool",
+          "url": "https://www.youtube.com/watch?v=EE11Zp_KWtg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "David Bowie 50th Birthday Concert Madison Square Garden",
+          "url": "https://www.youtube.com/watch?v=oXHzek1CJ3E"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Pink Floyd - PULSE Live 1994",
+          "url": "https://www.youtube.com/watch?v=E9Iau_oik-E"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Hard Core",
       "cor": "orange",
+      "link_extra": {
+        "text": "Pure rage",
+        "url": ""
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Bad Brains - Live at the CBGB's 1982",
+          "url": "https://www.youtube.com/watch?v=2pUlNfdnsAM"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Fugazi live in Hamburg 1999",
+          "url": "https://www.youtube.com/watch?v=0zjwPGh4Zw0"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Bring Me The Horizon - Live Rock am Ring 2019",
+          "url": "https://www.youtube.com/watch?v=TLHCED24YEA"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Nu Metal",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "The New Generation of the Metal",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Korn - UNO Lakefront Arena",
+          "url": "https://www.youtube.com/watch?v=NpSKLOjC0ts"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "SlipKnot - Live At Download 2009",
+          "url": "https://www.youtube.com/watch?v=72rq16h1IOg"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "System of a Down - Live in Armenia",
+          "url": "https://www.youtube.com/watch?v=uXpEcumKktk&t=7921s"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Pop Rock",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Rock for everyone",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "U2 - Live iNNOCENCE + eXPERIENCE- return to Paris",
+          "url": "https://www.youtube.com/watch?v=kFmxnTlCSp4"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "No Doubt - Live in the Tragic Kingdom",
+          "url": "https://www.youtube.com/watch?v=qf_tfei05oU"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "R.E.M. - Rock am Ring 2005",
+          "url": "https://www.youtube.com/watch?v=rD9BSKNcn0g"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "The Police - Live At Tokyo Dome ",
+          "url": "https://www.youtube.com/watch?v=ecKmcF1_rpY"
         }
       ]
     }
