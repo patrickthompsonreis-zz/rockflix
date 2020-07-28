@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const ContentAreaContainer = styled.section`
   margin-left: 5%;
   margin-right: 5%;
+  padding-top: 10px; 
   height: 100%;
   display: flex;
   align-items: center;
