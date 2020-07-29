@@ -1,6 +1,6 @@
 import React from 'react';
-import Menu from '../Menu';
-import Footer from '../Footer';
+import Menu from '../../components/Menu';
+import Footer from '../../components/Footer';
 import styled from 'styled-components';
 
 const Main = styled.main`
@@ -12,7 +12,7 @@ const Main = styled.main`
   padding-right: 5%;
 `;
 
-function TemplateBase({children}) {
+function Page404({children}) {
   return (
     <>
       <Menu />
@@ -24,4 +24,4 @@ function TemplateBase({children}) {
   );
 }
 
-export default TemplateBase;
+export default Page404;
