@@ -8,7 +8,7 @@ function CadastroCategoria() {
   const [categorias, setCategorias] = useState([]);
 
   const valoresIniciais = {
-    nome: '',
+    titulo: '',
     descricao: '',
     cor: '',
   };
@@ -30,7 +30,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL = 'http://localhost:8080/categorias';
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://imersao-react-project.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
@@ -47,7 +49,7 @@ function CadastroCategoria() {
       <h1>
         Cadastro de Categoria:
         {' '}
-        {values.nome}
+        {values.titulo}
       </h1>
 
       <form onSubmit={function handleSubmit(infosDoEvento) {
@@ -62,10 +64,10 @@ function CadastroCategoria() {
       >
 
         <FormField
-          label="Nome da Categoria"
+          label="Título da Categoria"
           type="text"
-          value={values.nome}
-          name="nome"
+          value={values.titulo}
+          name="titulo"
           onChange={handleChange}
         />
 
@@ -93,7 +95,7 @@ function CadastroCategoria() {
       <ul>
         {categorias.map((categoria, index) => (
           <li key={`${categoria}${index}`}>
-            {categoria.nome}
+            {categoria.titulo}
           </li>
         ))}
       </ul>

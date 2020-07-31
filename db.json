@@ -2,13 +2,13 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Metal",
+      "titulo": "Metal",
       "descricao": "Heavy Music for heavy ears",
       "cor": "#CBD1FF"
     },
     {
       "id": 2,
-      "nome": "Rock 'n' Roll",
+      "titulo": "Rock 'n' Roll",
       "descricao": "I know, it's only Rock'n'Roll...",
       "cor": "#CBD1FF"
     }
