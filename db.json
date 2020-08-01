@@ -4,13 +4,225 @@
       "id": 1,
       "titulo": "Metal",
       "descricao": "Heavy Music for heavy ears",
-      "cor": "#CBD1FF"
+      "cor": "#6CD0FA"
     },
     {
       "id": 2,
-      "titulo": "Rock 'n' Roll",
+      "titulo": "Rock n Roll",
       "descricao": "I know, it's only Rock'n'Roll...",
-      "cor": "#CBD1FF"
+      "cor": "##4DC871"
+    },
+    {
+      "id": 3,
+      "titulo": "Classic Rock",
+      "descricao": "All the best classic songs",
+      "cor": "#9CD33B"
+    },
+    {
+      "id": 4,
+      "titulo": "Hard Core",
+      "descricao": "Pure rage",
+      "cor": "#FEA73E"
+    },
+    {
+      "id": 5,
+      "titulo": "Nu Metal",
+      "descricao": "The New Generation of Metal",
+      "cor": "#F8433F"
+    },
+    {
+      "id": 6,
+      "titulo": "Pop Rock",
+      "descricao": "Rock for everyonde",
+      "cor": "#6F72E2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Iron Maiden - Rock In Rio 2013",
+      "url": "https://www.youtube.com/watch?v=Z3SvkefKslg"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Black Sabbath - Live At Ozzfest 2005",
+      "url": "https://www.youtube.com/watch?v=D9yawWUIit0"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Metallica: Live in Irvine, California - September 23, 1989",
+      "url": "https://www.youtube.com/watch?v=8NAO6C6qrBA"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Motorhead - Live At Wacken Open Air 2006",
+      "url": "https://www.youtube.com/watch?v=jk886pOS4Mo"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "SEPULTURA - live Roots 1996",
+      "url": "https://www.youtube.com/watch?v=CBwgf8NRFhI"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Slayer - Live at Wacken 2014",
+      "url": "https://www.youtube.com/watch?v=rzcYrPAsJvA"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Pantera - Full Concert (Killing In Korea)",
+      "url": "https://www.youtube.com/watch?v=6-Jvkf9jlNw"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Anthrax Live on Chile",
+      "url": "https://www.youtube.com/watch?v=eGGc512cees"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Oasis - Live at Maine Road 1996",
+      "url": "https://www.youtube.com/watch?v=-RE0ugUrKUs"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Nirvana - Live at the Paramount 1991",
+      "url": "https://www.youtube.com/watch?v=-tyrI-lfiuA"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Foo Fighters - Live in Hyde Park (2006)",
+      "url": "https://www.youtube.com/watch?v=A8z6rbmx7Mg"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Pearl Jam - Live at The Madison Square Garden",
+      "url": "https://www.youtube.com/watch?v=9rOBo4iEiG8&t=5119s"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "The White Stripes Live - Under Nova Scotian Lights",
+      "url": "https://www.youtube.com/watch?v=fpG8-P_BpcQ"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Led Zeppelin - Live at Madison Square Garden 1971",
+      "url": "https://www.youtube.com/watch?v=9BlGnzGICNQ"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "The Beatles Blackpool Night Out, ABC Theatre, Blackpool",
+      "url": "https://www.youtube.com/watch?v=EE11Zp_KWtg"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "David Bowie 50th Birthday Concert Madison Square Garden",
+      "url": "https://www.youtube.com/watch?v=oXHzek1CJ3E"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Pink Floyd - PULSE Live 1994",
+      "url": "https://www.youtube.com/watch?v=E9Iau_oik-E"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Bad Brains - Live at the CBGB's 1982",
+      "url": "https://www.youtube.com/watch?v=2pUlNfdnsAM"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Fugazi live in Hamburg 1999",
+      "url": "https://www.youtube.com/watch?v=0zjwPGh4Zw0"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Bring Me The Horizon - Live Rock am Ring 2019",
+      "url": "https://www.youtube.com/watch?v=TLHCED24YEA"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Korn - UNO Lakefront Arena",
+      "url": "https://www.youtube.com/watch?v=NpSKLOjC0ts"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "SlipKnot - Live At Download 2009",
+      "url": "https://www.youtube.com/watch?v=72rq16h1IOg"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "System of a Down - Live in Armenia",
+      "url": "https://www.youtube.com/watch?v=uXpEcumKktk&t=7921s"
+    },
+    {
+      "id": 24,
+      "categoriaId": 6,
+      "titulo": "U2 - Live iNNOCENCE + eXPERIENCE- return to Paris",
+      "url": "https://www.youtube.com/watch?v=kFmxnTlCSp4"
+    },
+    {
+      "id": 25,
+      "categoriaId": 6,
+      "titulo": "No Doubt - Live in the Tragic Kingdom",
+      "url": "https://www.youtube.com/watch?v=qf_tfei05oU"
+    },
+    {
+      "id": 26,
+      "categoriaId": 6,
+      "titulo": "R.E.M. - Rock am Ring 2005",
+      "url": "https://www.youtube.com/watch?v=rD9BSKNcn0g"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "The Police - Live At Tokyo Dome ",
+      "url": "https://www.youtube.com/watch?v=ecKmcF1_rpY"
+    },
+    {
+      "titulo": "Metallica",
+      "url": "https://www.youtube.com/watch?v=bYX_kPXxMY0",
+      "categoriaId": 1,
+      "id": 28
+    },
+    {
+      "titulo": "Metallica",
+      "url": "https://www.youtube.com/watch?v=bYX_kPXxMY0",
+      "categoriaId": 1,
+      "id": 29
+    },
+    {
+      "titulo": "Metallica",
+      "url": "https://www.youtube.com/watch?v=bYX_kPXxMY0",
+      "categoriaId": 5,
+      "id": 30
+    },
+    {
+      "titulo": "Metallica",
+      "url": "https://www.youtube.com/watch?v=bYX_kPXxMY0",
+      "categoriaId": 6,
+      "id": 31
     }
   ]
 }
